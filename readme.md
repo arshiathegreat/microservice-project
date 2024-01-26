@@ -31,9 +31,7 @@ Creating an executable file for the program:
 ```bash
 go build main
 ```
-```bash
-go build main
-```
+
 
 #### Run App with Docker
 set your environment config, then:
