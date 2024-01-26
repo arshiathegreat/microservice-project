@@ -4,9 +4,9 @@ This project has two store and authentication services in its backend and also h
 
 ## Usage 
 #### FrontEnd
-First, go to the `frontend` directory:
+First, go to the `client` directory:
 ```bash
-cd ./frontend
+cd ./client
 ```
 To install packages and program dependencies:
 ```bash
