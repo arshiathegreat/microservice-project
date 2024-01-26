@@ -21,7 +21,7 @@ npm start
 #### BackEnd
 First, go to the `backend` directory:
 ```bash
-cd ./frontend
+cd ./backend
 ```
 Running the program as a script:
 ```bash
